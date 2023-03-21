@@ -4,7 +4,9 @@
 
 html {
   font-family: sans-serif;
-  background: #1f1f1f;
+  background: url('users_background.jpeg') ;
+  background-repeat: no-repeat;
+  background-size: 1820px 900px;
 }
 
 body {
